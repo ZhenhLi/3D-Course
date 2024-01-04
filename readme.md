@@ -83,7 +83,7 @@
 * 9. SLAM系统解析
 * 10. 总结篇
 
-## 深蓝学院 三维点云处理课程
+## 3.深蓝学院 三维点云处理课程
 
 * 全面讲解三维点云经典算法与深度学习前言算法；
 * 手写经典的点云处理算法，不依赖PCL等第三方库
@@ -153,7 +153,7 @@
 * part10
   * 大作业
 
-## cs468-spring2017-MachingLearningfor3DData
+## 4. cs468-spring2017-MachingLearningfor3DData
 
 * https://graphics.stanford.edu/courses/cs468-17-spring/schedule.html
 
